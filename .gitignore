@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Expo cache
+.expo/
+.expo-shared/
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.ino.*
