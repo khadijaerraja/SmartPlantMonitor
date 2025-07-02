@@ -58,7 +58,7 @@ npx expo start
   - Humidité de l'air
   - Humidité du sol
   - Besoin d'eau
-- 💡 L'écran LCD I2C affiche aussi les données localement
+-  L'écran LCD I2C affiche aussi les données localement
 
 ![Aperçu de l'application](./assets/app.jpg)
 
