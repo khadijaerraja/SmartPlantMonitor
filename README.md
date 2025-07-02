@@ -50,7 +50,7 @@ npx expo start
 
 4. Scanner le QR code avec l'application Expo Go (Android/iOS)
 
-## 📊 Résultat attendu
+##  Résultat attendu
 
 - Les capteurs envoient les données à Firebase en temps réel
 - 📱 L'application mobile affiche :
