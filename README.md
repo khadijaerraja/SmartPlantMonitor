@@ -60,5 +60,5 @@ npx expo start
   - Besoin d'eau
 - 💡 L'écran LCD I2C affiche aussi les données localement
 
-![Capture d'écran de l'application Expo affichant les données](assets/app.jpg)
+![Aperçu de l'application](./assets/app.jpg)
 
